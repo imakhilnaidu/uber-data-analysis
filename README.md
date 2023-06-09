@@ -2,7 +2,9 @@
 
 ![uber-data](https://github.com/imakhilnaidu/uber-data-analysis/assets/84142821/2eb2e977-74f2-4c82-9cfe-4d8d50202f54)
 
+
 <h4>✅Tools & Technologies Used:</h4>
+<hr />
 <li>Python</li>
 <li>Excel</li>
 <li>Power BI</li>
